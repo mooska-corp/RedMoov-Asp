@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redmoov", "Redmoov\Redmoov.csproj", "{C17F8D8C-F1BF-4E18-B311-7A97E500FBE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C17F8D8C-F1BF-4E18-B311-7A97E500FBE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C17F8D8C-F1BF-4E18-B311-7A97E500FBE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C17F8D8C-F1BF-4E18-B311-7A97E500FBE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C17F8D8C-F1BF-4E18-B311-7A97E500FBE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7795FDFF-2E0C-4D42-BAB6-86FA88EB85C7}
+	EndGlobalSection
+EndGlobal
